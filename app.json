@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "todo-blank",
+    "slug": "todo-blank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-bl.jpg",
+    "splash": {
+      "image": "./assets/icon-bl.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-bl.jpg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon-bl.jpg"
+    }
+  }
+}
