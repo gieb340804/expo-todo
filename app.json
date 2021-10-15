@@ -4,9 +4,9 @@
     "slug": "todo-blank",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon-bl.jpg",
+    "icon": "./assets/icon-bl.png",
     "splash": {
-      "image": "./assets/icon-bl.jpg",
+      "image": "./assets/icon-bl.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icon-bl.jpg",
+        "foregroundImage": "./assets/icon-bl.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/icon-bl.jpg"
+      "favicon": "./assets/icon-bl.png"
     }
   }
 }
